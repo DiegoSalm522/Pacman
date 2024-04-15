@@ -1,0 +1,179 @@
+# depslib dependency file v1.0
+1605220640 source:d:\itesm\graficas comp\presentaciones\opengl\13 texturización\13_texturas_new\main.cpp
+	<stdlib.h>
+	<GL/glut.h>
+	"RgbImage.h"
+
+1676439379 c:\program files\codeblocks\mingw\include\gl\glut.h
+	"freeglut_std.h"
+
+1676439379 c:\program files\codeblocks\mingw\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1604963167 source:d:\itesm\graficas comp\presentaciones\opengl\13 texturización\13_texturas_new\rgbimage.cpp
+	"RgbImage.h"
+	<windows.h>
+	"GL/gl.h"
+
+1604959429 d:\itesm\graficas comp\presentaciones\opengl\13 texturización\13_texturas_new\rgbimage.h
+	<stdio.h>
+	<assert.h>
+
+1604966767 source:d:\itesm\graficas comp\presentaciones\opengl\13 texturización\13_texturas_new2\rgbimage.cpp
+	"RgbImage.h"
+	<windows.h>
+	"GL/gl.h"
+
+1604963029 d:\itesm\graficas comp\presentaciones\opengl\13 texturización\13_texturas_new2\rgbimage.h
+	<stdio.h>
+	<assert.h>
+
+1605226130 source:d:\itesm\graficas comp\presentaciones\opengl\13 texturización\13_texturas_new2\main.cpp
+	<stdlib.h>
+	<GL/glut.h>
+	"RgbImage.h"
+
+1667480177 source:d:\buap\cursos\graficacion\presentaciones\estructura de curso\tema 4 realismo 3d y opengl\ejemplo_texturizadoimagenes\texturas_new2\main.cpp
+	<stdlib.h>
+	<GL/glut.h>
+	"RgbImage.h"
+
+1604959429 d:\buap\cursos\graficacion\presentaciones\estructura de curso\tema 4 realismo 3d y opengl\ejemplo_texturizadoimagenes\texturas_new2\rgbimage.h
+	<stdio.h>
+	<assert.h>
+
+1604963167 source:d:\buap\cursos\graficacion\presentaciones\estructura de curso\tema 4 realismo 3d y opengl\ejemplo_texturizadoimagenes\texturas_new2\rgbimage.cpp
+	"RgbImage.h"
+	<windows.h>
+	"GL/gl.h"
+
+1677518849 source:d:\itesm\desarrollo de videojuegos\presentaciones\2023\proyectos\tema3 deteccioncolisiones texturas\ejemplo8_texturastexturas_new2\main.cpp
+	<stdlib.h>
+	<GL/glut.h>
+	"RgbImage.h"
+
+1604959429 d:\itesm\desarrollo de videojuegos\presentaciones\2023\proyectos\tema3 deteccioncolisiones texturas\ejemplo8_texturastexturas_new2\rgbimage.h
+	<stdio.h>
+	<assert.h>
+
+1604963167 source:d:\itesm\desarrollo de videojuegos\presentaciones\2023\proyectos\tema3 deteccioncolisiones texturas\ejemplo8_texturastexturas_new2\rgbimage.cpp
+	"RgbImage.h"
+	<windows.h>
+	"GL/gl.h"
+
+1709226816 source:c:\users\diego\desktop\opengl\ejemplo8_texturastexturas_new2\ejemplo8_texturastexturas_new2\main.cpp
+	<stdlib.h>
+	<GL/glut.h>
+	"RgbImage.h"
+
+1604959429 c:\users\diego\desktop\opengl\ejemplo8_texturastexturas_new2\ejemplo8_texturastexturas_new2\rgbimage.h
+	<stdio.h>
+	<assert.h>
+
+1604963167 source:c:\users\diego\desktop\opengl\ejemplo8_texturastexturas_new2\ejemplo8_texturastexturas_new2\rgbimage.cpp
+	"RgbImage.h"
+	<windows.h>
+	"GL/gl.h"
+
+1711652615 source:c:\users\diego\desktop\opengl\pacman\pacman\main.cpp
+	<stdlib.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<iostream>
+	"RgbImage.h"
+	"Pacman.h"
+	"Ghost.h"
+
+1709564288 c:\users\diego\desktop\opengl\pacman\pacman\rgbimage.h
+	<stdio.h>
+	<assert.h>
+
+1709564285 source:c:\users\diego\desktop\opengl\pacman\pacman\rgbimage.cpp
+	"RgbImage.h"
+	<windows.h>
+	"GL/gl.h"
+
+1711652097 source:c:\users\diego\desktop\opengl\pacman\pacman\pacman.cpp
+	"Pacman.h"
+	<stdlib.h>
+	<GL/glut.h>
+	"RgbImage.h"
+	<iostream>
+
+1711565958 c:\users\diego\desktop\opengl\pacman\pacman\pacman.h
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<iostream>
+
+1711652636 source:c:\users\diego\desktop\opengl\pacman\pacman\ghost.cpp
+	"Ghost.h"
+	<stdlib.h>
+	<GL/glut.h>
+	"RgbImage.h"
+	<iostream>
+
+1711652644 c:\users\diego\desktop\opengl\pacman\pacman\ghost.h
+	<string>
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<iostream>
+
+1711652636 source:c:\users\diego\desktop\pacman\pacman\ghost.cpp
+	"Ghost.h"
+	<stdlib.h>
+	<GL/glut.h>
+	"RgbImage.h"
+	<iostream>
+
+1713147381 c:\users\diego\desktop\pacman\pacman\ghost.h
+	<string>
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<iostream>
+
+1709564288 c:\users\diego\desktop\pacman\pacman\rgbimage.h
+	<stdio.h>
+	<assert.h>
+
+1711685006 source:c:\users\diego\desktop\pacman\pacman\main.cpp
+	<stdlib.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<iostream>
+	"RgbImage.h"
+	"Pacman.h"
+	"Ghost.h"
+
+1713147383 c:\users\diego\desktop\pacman\pacman\pacman.h
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<iostream>
+
+1711653254 source:c:\users\diego\desktop\pacman\pacman\pacman.cpp
+	"Pacman.h"
+	<stdlib.h>
+	<GL/glut.h>
+	"RgbImage.h"
+	<iostream>
+
+1709564285 source:c:\users\diego\desktop\pacman\pacman\rgbimage.cpp
+	"RgbImage.h"
+	<windows.h>
+	"GL/gl.h"
+
